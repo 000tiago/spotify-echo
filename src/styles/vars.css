@@ -1,0 +1,19 @@
+:root{
+    /* FONT */
+    --font--dm-sans: "DM Sans", sans-serif;
+
+    /* Dark Gray Tones */
+    --bg-dark-gray: #3A3A3A; /* Cinza escuro */
+    --bg-darker-gray: #2C2C2C; /* Cinza ainda mais escuro */
+    --bg-charcoal: #1F1F1F; /* Cinza carvão */
+    --bg-graphite: #2E2E2E; /* Grafite */
+    --bg-body: #1A1A1A; /* Fundo do corpo */
+    --bg-sidebar: #3A3A3A; /* Fundo da sidebar */
+    --bg-logo: #242424; /* Fundo do logo */
+    --bg-navigation: #242424; /* Fundo da navegação */
+    --bg-playlist: #3A3A3A; /* Fundo da playlist */
+    --bg-button: #ffffff; /* Cor do botão */
+    --text-color: #dfdfdf; /* Cor do texto principal */
+    --text-white: #ffffff; /* Texto branco */
+    --border-color: #878787; /* Cor da borda */
+}
